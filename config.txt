@@ -1,0 +1,9 @@
+initial_energy_min=75
+initial_energy_max=99
+energy_decrease_min=1
+energy_decrease_max=5
+fall_time_min=1
+fall_time_max=1
+rounds_to_win=2
+game_duration=20
+max_score=4000
